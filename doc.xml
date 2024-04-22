@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <phpdocumentor>
     <transformer>
-        <target>/Applications/XAMPP/xamppfiles/htdocs/DAW06</target>
+        <target>\documents\htdocs\Desplegament-web</target>
     </transformer>
     <parser>
-        <target>./docs</target>
+        <target>./doc</target>
     </parser>
     <files>
         <directory>.</directory>
